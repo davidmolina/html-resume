@@ -1,0 +1,62 @@
+#header #name {
+  font-family: cursive;
+  font-size: 24px;
+  font-color: #6699ff;
+  text-align: center;
+  position: center;
+  background-color: #6699ff;
+}
+
+#header2 {
+  font-family: verdana;
+  font-size: 12px;
+  font-color: #6699ff;
+  text-align: center;
+  position: center;
+}
+
+#experience {
+  font-family: courier;
+  font-size: 12px;
+  font-color: #ffffff;
+  text-align: center;
+  position: center;
+  background-color: #cc3300;
+  padding: none;
+  margin: none;
+}
+h4 {
+  font-family: cursive;
+  font-size: 16px;
+  text-align: center;
+  position: center;
+}
+
+#education .color {
+  font-color: #ffffff;
+}
+
+li {
+  font-family: courier;
+  font-size: 12px;
+  font-color: #6699ff;
+}
+
+#footer {
+  font-family: courier;
+  font-size: 12px;
+  font-color: #6699ff;
+  text-align: center;
+  position: center;
+  background-color: #6699ff;
+  padding: none;
+  margin: none;
+}
+
+html {
+  background: url("/Users/davidmolina/Desktop/apps/html-resume/David_Molina_BilingualHire_Txt_Web.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
